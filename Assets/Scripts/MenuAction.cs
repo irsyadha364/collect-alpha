@@ -7,4 +7,8 @@ public class MenuAction : MonoBehaviour
     public void MENU_ACTION_GoToPage(string sceneName){
         Application.LoadLevel(sceneName);
     }
+
+    public void doExitGame() {
+     Application.Quit();
+    }
 }
