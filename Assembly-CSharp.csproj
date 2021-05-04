@@ -38,6 +38,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\AlphabetPicker.cs" />
      <Compile Include="Assets\Scripts\MenuAction.cs" />
+     <Compile Include="Assets\Scripts\PanelOpener.cs" />
      <Compile Include="Assets\Scripts\PlayerHealth.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Reference Include="UnityEngine">

@@ -429,7 +429,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: SoalLevel1
+          m_StringArgument: LevelSelect
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1178055610
@@ -538,7 +538,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: ABOUT US
+  m_Text: ABOUT
 --- !u!222 &1285797051
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -768,7 +768,7 @@ GameObject:
   - component: {fileID: 1983208747}
   - component: {fileID: 1983208746}
   m_Layer: 5
-  m_Name: AboutUs-Button (2)
+  m_Name: About-Button (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -845,7 +845,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: SoalLevel1
+          m_StringArgument: About Us
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1983208747
